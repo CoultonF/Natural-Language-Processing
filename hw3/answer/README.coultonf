@@ -1,3 +1,0 @@
-worked on the option 3 implementation making a scRNN that de-noised input to the second tagger lstm.
-wrote sections in analysis on the scRNN implementation
-training different models with various parameters to find optimal
